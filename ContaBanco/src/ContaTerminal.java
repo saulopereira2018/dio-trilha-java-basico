@@ -10,7 +10,6 @@ public class ContaTerminal {
         //TODO:Conhecer e importar a classe Scanner
         Scanner scanner = new Scanner(System.in);
         
-        
         System.out.println("Por favor, digite o número da conta:");
 
         //Obter pela scanner os valores digitados no terminal
